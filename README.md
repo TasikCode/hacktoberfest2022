@@ -1,4 +1,4 @@
-# Hacktoberfest 2020
+# Hacktoberfest 2020.
 http://hf2020.tasikcode.xyz
 
 Tasikmalaya Hacktoberfest 2020 Project Repo
